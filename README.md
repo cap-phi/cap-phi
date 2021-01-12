@@ -1,7 +1,7 @@
-### Cap Phi
+### ⛹️‍♂️ Cap Phi
 
-[![Cap-Phi's github stats](https://github-readme-stats.vercel.app/api?username=cap-phi)](https://github.com/anuraghazra/github-readme-stats)
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=cap-phi&show_icons=true&icon_color=0366d6&text_color=24292e&hide_title=true" />
 
-Hi, glad to see you landing on my git page! I'm currently studying in Canberra, having fun designing my own website and iOS app!!
+🪂 Hi, glad to see you landing on my git page! I'm currently studying in Canberra, having fun designing my own website and iOS app!!
 
-Here's my demo site if you'd like to have a look: []()
+🗺 Here's my demo site if you'd like to have a look: [Pop Tab Blog](https://webflow.com/design/mockup-designcode)
