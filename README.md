@@ -4,4 +4,9 @@
 
 🪂 Hi, glad to see you landing on my git page! I'm currently studying in Canberra, having fun designing my own website and iOS app!!
 
-🗺 Here's my demo site if you'd like to have a look: [Pop Tab Blog](https://webflow.com/design/mockup-designcode)
+🗺 Here's my demo site if you'd like to have a look:
+[Pop Tab Blog](https://mockup-designcode.webflow.io)
+
+🥥 My other working projects:
+
+🍔 My side projects:
