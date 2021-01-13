@@ -9,4 +9,6 @@
 
 🥥 My other working projects:
 
+- Soviet Jokes (iOS)
+
 🍔 My side projects:
