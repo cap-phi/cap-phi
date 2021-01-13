@@ -10,5 +10,10 @@
 🥥 My other working projects:
 
 - Soviet Jokes (iOS)
+- Data visulizations
+-
 
 🍔 My side projects:
+
+- Life in pictures
+- Life in a novel
